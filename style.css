@@ -633,6 +633,11 @@ a[data-lightbox]:hover img{
 	border-left-color:rgba(255,255,255,.9);
 }
 
+/* Dark */
+.dark-lb{
+	background:#1F272A;
+}
+
 /* = Custom Colour Styling
 -------------------------------------------------------------- */
 
