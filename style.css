@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------*/
-/*	    love
+/*	    lovenails
 /*      Built with Blocs
 /*-----------------------------------------------------------------------------------*/
 
@@ -375,7 +375,7 @@ nav .caret{
 	 transition: all .2s ease-out;
 }
 #hero-bloc .sticky{
-	background-color:rgb(248, 78, 32);
+	background-color:rgb(248, 50, 113);
 	width:100%;
 	max-width: 100%;
 }
@@ -641,8 +641,8 @@ a[data-lightbox]:hover img{
 .bgc-white{
 	background-color:#ffffff;
 }
-.bgc-flame{
-	background-color:#F84E20;
+.bgc-radical-red{
+	background-color:#F83271;
 }
 .bgc-medium-jungle-green{
 	background-color:#262C32;
@@ -655,8 +655,8 @@ a[data-lightbox]:hover img{
 }
 /* Text colour styles */
 
-.tc-flame{
-	color:#F84E20!important;
+.tc-radical-red{
+	color:#F83271!important;
 }
 .tc-white{
 	color:#ffffff!important;
@@ -666,19 +666,19 @@ a[data-lightbox]:hover img{
 }
 /* Button colour styles */
 
-.btn-flame{
-	background:#F84E20;
+.btn-radical-red{
+	background:#F83271;
 	color:#FFFFFF!important;
 }
-.btn-flame:hover{
-	background:#c63e1a;
+.btn-radical-red:hover{
+	background:#c6285a;
 	color:#FFFFFF!important;
 }
 /* Icon colour styles */
 
-.icon-flame{
-	color:#F84E20!important;
-	border-color:#F84E20!important;
+.icon-radical-red{
+	color:#F83271!important;
+	border-color:#F83271!important;
 }
 
 /* Bloc image backgrounds */
