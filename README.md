@@ -1,2 +1,0 @@
-# lovenails
-lovenails shop
