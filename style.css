@@ -627,11 +627,6 @@ a[data-lightbox]:hover img{
 	border-left-color:rgba(255,255,255,.9);
 }
 
-/* Dark */
-.dark-lb{
-	background:#1F272A;
-}
-
 /* = Custom Styling
 -------------------------------------------------------------- */
 
@@ -852,7 +847,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background-image:url("img/header.jpg");
 }
 .bg-header{
-	background-image:url('img/header.jpg');
+	background-image:url("img/header.jpg");
 }
 
 
